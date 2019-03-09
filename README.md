@@ -1,11 +1,17 @@
 # Arkademy-Batch-9
-Tugas Bootcamp Arkademy Batch 9
-TIPE SOAL : D
+<br>
+Tugas Bootcamp Arkademy Batch 9 TIPE SOAL : D
+<br>
 Software :
-Software yang dibutuhkan LAMPP (Linux Apache MySQL PHP PERL)
-Bahasa Pemrograman PHP dan MySQL
+<br>
+<p>Software yang dibutuhkan LAMPP (Linux Apache MySQL PHP PERL)</p>
+<p>Bahasa Pemrograman PHP dan MySQL</p>
+<br>
 Cara Pakai :
-1. Download/Clone repository ini jadikan satu folder untuk lebih mudah, kecuali sensuspenduduk.sql
-2. Impor sensuspenduduk.sql di PHPmyAdmin
-3. Sesuaikan configurasi databasenya yang ada pada config/database.php
-4. Jalankan Aplikasi di browser kesayangan anda.
+<br>
+<ol>
+  <li>Download/Clone repository ini jadikan satu folder untuk lebih mudah, kecuali sensuspenduduk.sql</li>
+  <li>Impor sensuspenduduk.sql di PHPmyAdmin</li>
+  <li>Sesuaikan configurasi databasenya yang ada pada config/database.php</li>
+  <li>Jalankan Aplikasi di browser kesayangan anda</li>
+</ol>
