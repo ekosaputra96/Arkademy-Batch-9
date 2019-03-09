@@ -2,9 +2,16 @@
 <br>
 Tugas Bootcamp Arkademy Batch 9 TIPE SOAL : D
 <br>
+<p>Stacks yang digunakan</p>
+<ol>
+  <li>CSS dengan framework Bootstrap</li>
+  <li>FontAwesome</li>
+  <li>PHP Native (No Framework)</li>
+  <li>Admin Template untuk User Login</li>
+</ol>
 Software :
 <br>
-<p>Software yang dibutuhkan LAMPP (Linux Apache MySQL PHP PERL)</p>
+<p>Software yang dibutuhkan LAMPP, Visual Studio Code Editor</p>
 <p>Bahasa Pemrograman PHP dan MySQL</p>
 <br>
 Cara Pakai :
