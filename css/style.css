@@ -1,0 +1,49 @@
+/* header */
+nav > a > i.custom{
+  font-size: 25px;
+}
+
+nav .signup-link{
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #ffffff;
+}
+
+nav .signup-link:hover{
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #000;
+}
+
+/* form */
+div.form-custom{
+  background: #cccccc;
+  /* border-radius: 30px; */
+  /* padding-top: 20px; */
+  /* padding-bottom: 20px; */
+}
+
+/* Carousel */
+div > img.custom-img-carousel{
+  max-height: 500px;
+}
+
+/* footer */
+footer{
+  background-color: #2780E3;
+  padding: 30px;
+}
+
+footer > p {
+  margin: 0;
+}
+div.carousel-caption{
+  background-color: rgba(66,66,66, 0.7);
+  border-radius: 20px;
+}
+@media (max-width: 1000px){
+  nav .signup-link{
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
