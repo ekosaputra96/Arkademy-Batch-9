@@ -1,0 +1,12 @@
+table > tbody > tr > td.custom-data{
+  width: 150px;
+}
+
+table > tbody > tr > td.custom-address{
+  max-width: 300px;
+}
+
+nav > ul form > button.custom-button{
+  margin-top: 7px;
+  margin-right: 10px;
+}
